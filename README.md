@@ -20,4 +20,4 @@ This repository contains a simple image encryption tool in Java, which encrypts 
 ## Usage:
 ### Clone the repository:
 ```bash
-git clone https://github.com/Cyberpradeep/image-encryption-java.git
+git clone https://github.com/Cyberpradeep/PRODIGY_CS_02.git
